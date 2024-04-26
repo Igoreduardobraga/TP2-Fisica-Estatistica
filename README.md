@@ -9,6 +9,6 @@ Um dos desafios mais intrigantes foi estimar a temperatura crítica de transiç�
 
 Tratei os erros estatísticos e sistemáticos com o respeito necessário: a precisão das simulações foi reforçada por uma metodologia rigorosa para estimar e minimizar esses erros. Utilizei a abordagem de divisão em blocos para estabelecer uma margem de erro confiável nas grandezas termodinâmicas calculadas, um passo essencial para assegurar a solidez dos resultados.
 
-O ponto culminante do trabalho foi a interpretação dos dados, onde gráficos detalhados ilustram as variações das propriedades físicas com a temperatura. As barras de erro, meticulosamente calculadas, ofereceram um panorama visual da confiabilidade dos dados.
+O ponto culminante do trabalho foi a interpretação dos dados, onde gráficos detalhados ilustram as variações das propriedades físicas com a temperatura. As barras de erro ofereceram um panorama visual da confiabilidade dos dados.
 
 Em última análise, este projeto não apenas proporcionou uma imersão técnica nas simulações de Monte Carlo e no modelo de Ising, mas também se destacou como um modelo para estudos computacionais na física, onde a complexidade dos sistemas exige uma mistura sagaz de métodos numéricos e teóricos para desvendar comportamentos emergentes.
